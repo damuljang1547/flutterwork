@@ -1,6 +1,6 @@
 # Flutter "Hello, World!" 예제
 
-이 Flutter 애플리케이션은 "Hello, World!"라는 텍스트를 표시하는 간단한 예제입니다.
+이 Flutter 애플리케이션은 화면에 "Hello, World!"라는 텍스트를 표시하는 간단한 예제입니다.
 
 ## 📋 코드 예제
 ```dart
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   @override
-  Widget build(BuildCongittext context) {
+  Widget build(BuildContext context) {
     return const MaterialApp(
       home: Scaffold(
         body: Center(
