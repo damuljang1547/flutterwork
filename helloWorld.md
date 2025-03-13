@@ -2,6 +2,12 @@
 
 이 Flutter 애플리케이션은 화면에 "Hello, World!"라는 텍스트를 표시하는 간단한 예제입니다.
 
+
+## 🖥️ 실행 결과
+| 예제 실행 화면 |
+|:---------------:|
+| ![Hello World 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/screenshot/helloworld.png) |
+
 ## 📋 코드 예제
 ```dart
 import 'package:flutter/material.dart';
@@ -27,9 +33,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+'''dart
 
 
-## 🖥️ 실행 결과
-| 예제 실행 화면 |
-|:---------------:|
-| ![Hello World 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/screenshot/helloworld.png) |
