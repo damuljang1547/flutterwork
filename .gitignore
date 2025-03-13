@@ -43,3 +43,9 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# 모든 파일 숨기기
+*
+
+# README.md만 보이게 설정
+!README.md
