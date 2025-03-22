@@ -23,7 +23,7 @@ void main() {
 ## 🖥️ 실행 결과
 | 예제 실행 화면 |
 |:---------------:|
-| ![Hello World 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/square1.png) |
+| ![실행결과 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/square1.png) |
 
 
 
@@ -49,7 +49,7 @@ void main() {
 ## 🖥️ 실행 결과
 | 예제 실행 화면 |
 |:---------------:|
-| ![Hello World 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/square2.png) |
+| ![실행결과 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/square2.png) |
 
 
 # Dart 사각형 만들기
@@ -80,7 +80,7 @@ void main() {
 ## 🖥️ 실행 결과
 | 예제 실행 화면 |
 |:---------------:|
-| ![Hello World 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/square3.png) |
+| ![실행결과 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/square3.png) |
 
 
 # Dart 사각형 만들기
@@ -118,7 +118,7 @@ void main() {
 ## 🖥️ 실행 결과
 | 예제 실행 화면 |
 |:---------------:|
-| ![Hello World 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/square4.png) |
+| ![실행결과 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/square4.png) |
 
 
 # Dart 사각형 만들기
@@ -163,4 +163,4 @@ void main() {
 ## 🖥️ 실행 결과
 | 예제 실행 화면 |
 |:---------------:|
-| ![Hello World 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/square5.png) |
+| ![실행결과 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/square5.png) |

@@ -25,6 +25,6 @@ void main() {
 ## 🖥️ 실행 결과
 | 예제 실행 화면 |
 |:---------------:|
-| ![Hello World 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/Date.png) |
+| ![실행결과 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/date.png) |
 
 
