@@ -86,4 +86,4 @@ if __name__ == '__main__' :
 ## 🖥️ 실행 결과
 | 예제 실행 화면 |
 |:---------------:|
-| ![실행결과 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/python_grad.png) |
+| ![실행결과 화면](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/img/python_grade.png) |
