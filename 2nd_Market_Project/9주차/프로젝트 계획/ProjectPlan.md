@@ -85,4 +85,4 @@
 
 ---
 
-![프로젝트 계획 이미지](../Project_Plan.png)
+![프로젝트 계획 이미지](https://raw.githubusercontent.com/damuljang1547/flutterwork/main/2nd_Market_Project/Project_Plan.png)
