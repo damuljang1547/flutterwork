@@ -28,10 +28,9 @@
 
 | 리소스 유형 | 내용 |
 |-------------|------|
-| **인적 자원** | 4인 팀 구성 (기획/디자인 1, 프론트엔드 2, 백엔드 1) |
+| **인적 자원** | 1인 구성 |
 | **기술 스택** | Flutter SDK, Firebase Console, VS Code/Android Studio |
 | **기기/환경** | Android 디바이스, Firebase 무료 Tier, GitHub 관리 |
-| **문서 도구** | Google Docs, Figma (UI 시안), Notion (작업 기록) |
 
 ---
 
