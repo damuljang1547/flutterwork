@@ -9,7 +9,7 @@
 | **주요 기능** | 사용자 인증, 상품 CRUD, 이미지 업로드, 위치 필터링, 실시간 채팅 등 |
 | **개발 기간** | 2025년 5월 20일 ~ 6월 21일 (5주간) |
 | **사용 기술** | Flutter, Firebase (Firestore, Auth, Storage), Geolocator, Provider 등 |
-
+    
 ---             
 ## 2. 요구사항
   
