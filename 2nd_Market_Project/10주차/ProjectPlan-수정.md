@@ -10,7 +10,7 @@
 | **개발 기간** | 2025년 5월 20일 ~ 6월 21일 (5주간) |
 | **사용 기술** | Flutter, Firebase (Firestore, Auth, Storage), Geolocator, Provider 등 |
     
----             
+---                               
 ## 2. 요구사항
   
 | 구분 | 주요 요구사항 | 세부 설명 | 제안자 |
